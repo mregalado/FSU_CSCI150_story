@@ -194,7 +194,8 @@ def rand_num():
             "approximately 24",
             "a benjamin",
             "way more than necessary",
-            "OVER 9,000 (!)"
+            "OVER 9,000 (!)",
+            "Zero"
             ]
     
     return rc(nums)
